@@ -1,5 +1,5 @@
 # Network Analytics Project
-###  This project performs Network Analytics on a dataset of flight routes using Python libraries like Pandas and NetworkX. It explores various centrality measures to understand the importance of nodes (airports) in the network.
+#### This project performs Network Analytics on a dataset of flight routes using Python libraries like Pandas and NetworkX. It explores various centrality measures to understand the importance of nodes (airports) in the network.
 
 ## Table of Contents
 #### Introduction
