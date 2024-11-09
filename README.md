@@ -6,7 +6,6 @@
 #### Features
 #### Dataset
 #### Installation
-#### Usage
 #### Results
 
 ## Introduction
