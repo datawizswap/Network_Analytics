@@ -34,9 +34,6 @@
 #### matplotlib
 #### decorator==5.0.7 (to avoid compatibility issues)
 
-## Install the required packages
-#### pip install pandas networkx matplotlib decorator==5.0.7
-
 ## Results
 #### Degree Centrality: Indicates the number of direct connections each node (airport) has.
 #### Closeness Centrality: Measures how close a node is to all other nodes in the network.
